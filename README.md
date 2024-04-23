@@ -40,8 +40,7 @@ To start our first ticket, we'll use this link: End Users osTicket URL: http://l
 <img src="https://i.imgur.com/3BgRxpN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+During this phase, we'll step into the role of the help desk, ready to tackle and resolve the ticket at hand.</p>
 <br />
 
 <p>
