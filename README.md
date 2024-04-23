@@ -33,8 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/rwph0HI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+To start our first ticket, we'll use this link: End Users osTicket URL: http://localhost/osTicket/. It's where we go to create our first ticket in the osTicket system. This link helps us keep track of our requests and make sure we solve any issues smoothly. Let's use it to make our first ticket and get the ball rolling on sorting out any problems.</p>
 <br />
 
 <p>
